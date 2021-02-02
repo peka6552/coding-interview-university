@@ -474,8 +474,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [ ] Self added section
-	- [ ] [Skip lists]
+    - Self added section
+	- [ ] Skip lists
+		- [ ] [introduction to skip lists] (https://youtu.be/UGaOXaXAM5M)
 		- [ ] [mit video](https://youtu.be/2g9OSRKJuzM)
     - [ ] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
