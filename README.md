@@ -253,9 +253,9 @@
         - empty: O(1) (linked list and array)
 
 - ### Hash table
-    - [ ] self added stuff
-        - [ ] [CSdojo introductory video](https://youtu.be/sfWyugl4JWA)
-        - [ ] 
+    - [x] self added stuff
+        - [x] [CSdojo introductory video](https://youtu.be/sfWyugl4JWA)
+        - [ ] [CS50 harvard](https://youtu.be/nvzVHwrrub0) 
     - [ ] Videos:
         - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
         - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
